@@ -49,6 +49,7 @@
 .mydiv02{
   background-color: #00ffff;
   top: 40px;
+  left: 40px;
   /*定位元素的z轴优先级，越高在越前面*/
   z-index: 10;
 }
